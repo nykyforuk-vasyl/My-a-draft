@@ -1,0 +1,77 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h3 {
+    color: SlateBlue;
+    text-align: center;
+}
+
+h2 {
+    color: DarkSlateBlue;
+    text-align: center;
+}
+
+button {
+    background-color: CadetBlue;
+    color: whitesmoke;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+header {
+    background-color: CadetBlue;
+    border-radius: 18px;
+}
+
+footer {
+    background-color: Black;
+    color: whitesmoke;
+    border-radius: 14px;
+    text-align: center;
+}
+
+nav {
+    cursor: pointer;
+}
+
+main {
+    background-color: MintCream;
+    text-align: center;
+}
+
+a {
+    background-color: MintCream;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+.link {
+    background-color: CadetBlue;
+    color: beige;
+}
+
+.social-links a {
+    background-color: CadetBlue;
+}
+
+.social-links a:hover {
+    background-color: rgb(191, 221, 20);
+    color: rgb(199, 42, 68);
+}
+
+.social {
+    background-color: AliceBlue;
+}
+
+.social-1 {
+    background-color: GhostWhite;
+}
