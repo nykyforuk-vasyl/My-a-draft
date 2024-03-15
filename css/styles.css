@@ -63,9 +63,14 @@ ul {
     background-color: CadetBlue;
 }
 
-.social-links a:hover {
-    background-color: rgb(191, 221, 20);
-    color: rgb(199, 42, 68);
+.social-links a:hover,
+.social-links a:focus {
+    background-color: rgb(54, 61, 13);
+    color: rgb(93, 214, 36);
+}
+
+.social-links a:active {
+    color: red;
 }
 
 .social {
